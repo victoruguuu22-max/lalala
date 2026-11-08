@@ -1,8 +1,8 @@
 const products=[
 {id:1,name:"Caminha Nuvem",category:"Cães",price:129.90,tag:"Mais vendido",image:"https://images.unsplash.com/photo-1541599540903-216a46ca1dc0?auto=format&fit=crop&w=700&q=80"},
-{id:2,name:"Arranhador Natural",category:"Gatos",price:89.90,tag:"Queridinho",image:"https://images.unsplash.com/photo-1545249390-6b dha?auto=format&fit=crop&w=700&q=80"},
+{id:2,name:"Arranhador Natural",category:"Gatos",price:89.90,tag:"Queridinho",image:"https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?auto=format&fit=crop&w=700&q=80"},
 {id:3,name:"Bolinha Divertida",category:"Brinquedos",price:24.90,tag:"Diversão",image:"https://images.unsplash.com/photo-1535294435445-d7249524ef2e?auto=format&fit=crop&w=700&q=80"},
-{id:4,name:"Coleira Passeio",category:"Acessórios",price:39.90,tag:"Novo",image:"https://images.unsplash.com/photo-1601758123927-196b7f8?auto=format&fit=crop&w=700&q=80"},
+{id:4,name:"Coleira Passeio",category:"Acessórios",price:39.90,tag:"Novo",image:"https://images.unsplash.com/photo-1551717743-49959800b1f6?auto=format&fit=crop&w=700&q=80"},
 {id:5,name:"Kit Potes Duo",category:"Cães",price:59.90,tag:"Prático",image:"https://images.unsplash.com/photo-1589924691995-400dc9ecc119?auto=format&fit=crop&w=700&q=80"},
 {id:6,name:"Toca Aconchego",category:"Gatos",price:119.90,tag:"Conforto",image:"https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?auto=format&fit=crop&w=700&q=80"},
 {id:7,name:"Mordedor Natural",category:"Brinquedos",price:32.90,tag:"Favorito",image:"https://images.unsplash.com/photo-1582798358481-d199fb7347bb?auto=format&fit=crop&w=700&q=80"},
